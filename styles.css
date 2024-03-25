@@ -9,7 +9,6 @@ body {
     max-width: 900px;
     margin: auto;
     background-color: rgb(201, 229, 206);
-    height: 100%;
 }
 
 header h1 {
@@ -17,8 +16,12 @@ header h1 {
     font-size: 90px;
 }
 
+main {
+    padding-bottom: 2em;
+}
+
 .links {
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 1em;
 }
 
