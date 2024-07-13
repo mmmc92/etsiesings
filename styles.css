@@ -37,3 +37,28 @@ main {
 .bio p {
     font-size: 20px;
 }
+
+.tourInfo {
+    text-align: center;
+    color: #8d70eb;
+}
+
+.dateContainer {
+    margin: auto;
+    width: fit-content;
+}
+
+.dateList {
+    list-style-type: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    text-align: left;
+}
+
+.dateList a:visited, .dateList a:link {
+    color:#8d70eb;
+}
+
+.dateTitle {
+    margin-block-end: .5em;
+}
